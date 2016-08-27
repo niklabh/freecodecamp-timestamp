@@ -9,5 +9,7 @@ it does, it returns both the Unix timestamp and the natural language form of tha
 it does not contain a date or Unix timestamp, it returns null for those properties.
 
 ##Example usage:
-https://timestamp-ms.herokuapp.com/December%2015,%202015
-https://timestamp-ms.herokuapp.com/1450137600
+https://timestamp-freecodecamp-niklabh.herokuapp.com/December%2015,%202015
+
+
+https://timestamp-freecodecamp-niklabh.herokuapp.com/1450137600
